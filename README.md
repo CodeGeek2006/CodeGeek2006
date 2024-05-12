@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello, I'm Bilol Abdilxayev! 👋
+![Ryan Gosling](ryan.png)
+I'm deeply interested in Artificial Intelligence, especially its applications in healthcare.
 
-<!--
-**CodeGeek2006/CodeGeek2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me:
+- 📅 **Birthdate:** December 15, 2006
+- 📚 I'm a student at the Academic Lyceum of WIUT.
+- 💡 I'm eager to learn more about AI, particularly its use in medicine.
+- 💼 I'm open to project collaborations and internship opportunities.
+- 🧬 I'm also intrigued by the field of biomedical engineering.
 
-Here are some ideas to get you started:
+#### Tech Stack:
+- 💻 I mainly code in Java, but I'm also proficient in JavaScript, C++, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Let's Connect!
+- 📫 Feel free to reach out to me at [abdulkhayevbilol@gmail.com](mailto:abdulkhayevbilol@gmail.com)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/bilol-abdilxayev-b6b7b02b1/)
+
