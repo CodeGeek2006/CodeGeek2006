@@ -22,7 +22,7 @@ I'm deeply interested in Artificial Intelligence, especially its applications in
 
 #### Tech Stack:
 
-- 💻 I mainly code in Java, but I'm also proficient in JavaScript, C++, and Python.
+- 💻 I mainly code in C++, but I'm also somewhat knowledgeable in Java, Golang, and Python.
 
 ---
 
