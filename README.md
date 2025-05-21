@@ -13,7 +13,6 @@ I'm deeply interested in Artificial Intelligence, especially its applications in
 #### About Me:
 
 - 📅 **Birthdate:** December 15, 2006
-- 📚 I'm a student at the Academic Lyceum of WIUT.
 - 💡 I'm eager to learn more about AI, particularly its use in medicine.
 - 💼 I'm open to project collaborations and internship opportunities.
 - 🧬 I'm also intrigued by the field of biomedical engineering.
