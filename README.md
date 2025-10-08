@@ -10,7 +10,6 @@
 
 - 📅 **Birthdate:** December 15, 2006
 - 💼 I'm open to project collaborations and internship opportunities.
-- 🧬 I'm intrigued by the field of biomedical engineering.
 ---
 
 #### Tech Stack:
