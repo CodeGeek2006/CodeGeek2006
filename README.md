@@ -6,17 +6,11 @@
 
 ---
 
-I'm deeply interested in Artificial Intelligence, especially its applications in healthcare.
-
----
-
 #### About Me:
 
 - 📅 **Birthdate:** December 15, 2006
-- 💡 I'm eager to learn more about AI, particularly its use in medicine.
 - 💼 I'm open to project collaborations and internship opportunities.
-- 🧬 I'm also intrigued by the field of biomedical engineering.
-
+- 🧬 I'm intrigued by the field of biomedical engineering.
 ---
 
 #### Tech Stack:
